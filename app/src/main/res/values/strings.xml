@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather Checker</string>
+    <string name="user_registration">User Registration</string>
+    <string name="mobile_number_">Mobile Number *</string>
+    <string name="full_name_">Full Name *</string>
+    <string name="select_gender_">Select Gender *</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="date_of_birth_">Date Of Birth *</string>
+    <string name="address_line_1_">Address Line 1 *</string>
+    <string name="address_line_2_">Address Line 2</string>
+    <string name="pincode_">PinCode *</string>
+    <string name="check">Check</string>
+    <string name="country_name">Enter City Name</string>
+    <string name="temperature_in_centigrade">Temperature in Centigrade</string>
+    <string name="temperature_in_fahrenheit">Temperature in Fahrenheit</string>
+    <string name="user_details">User Details</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="pincode">PinCode</string>
+    <string name="district">District</string>
+    <string name="state">State</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
